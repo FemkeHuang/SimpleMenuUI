@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">订单软件</string>
+    <string name="select_language">选择语言</string>
+    <string name="language">简体中文</string>
+    <string name="salad">沙拉</string>
+    <string name="sample_salad_picture">Sample Salad Picture</string>
+</resources>

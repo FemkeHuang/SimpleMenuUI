@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrderingApp</string>
+    <string name="select_language">Select Language</string>
+    <string name="language">English</string>
+    <string name="salad">Salad</string>
+    <string name="sample_salad_picture">Sample Salad Picture</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>

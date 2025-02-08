@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Order App</string>
+    <string name="select_language">Επιλέξτε Γλώσσα</string>
+    <string name="language">Ελληνικά</string>
+    <string name="salad">Σαλάτα</string>
+    <string name="sample_salad_picture">Sample Salad Picture</string>
+</resources>
